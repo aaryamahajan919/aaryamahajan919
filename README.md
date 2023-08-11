@@ -24,7 +24,20 @@
 ### 😂 Random Dev Meme
 <img src="[https://rm.up.railway.app/](https://i.pinimg.com/736x/3c/2f/03/3c2f039ee424b5a44c9e7e54542fb73d.jpg)" width="512px"/>
 
----
+import ForgeUI, { render, Fragment, Macro, Image } from "@forge/ui";
+
+const App = () => {
+  return (
+    <Fragment>
+      <Image
+        src="https://random-memer.herokuapp.com/"
+        alt="Please refresh the app if the meme doesn't show up."
+      />
+    </Fragment>
+  );
+};
+
+export const run = render(<Macro app={<App />} />);
 [![](https://visitcount.itsvg.in/api?id=aaryamahajan919&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
