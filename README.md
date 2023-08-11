@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aaryamahajan919&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/](https://i.pinimg.com/736x/3c/2f/03/3c2f039ee424b5a44c9e7e54542fb73d.jpg)" width="512px"/>
+<img src="https://i.pinimg.com/736x/3c/2f/03/3c2f039ee424b5a44c9e7e54542fb73d.jpg" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
