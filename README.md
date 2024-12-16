@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Angular c# project<br>💬 Contact me on: aaryamahajan919@gmail.com<br>⚡ Fun fact about me: besides coding, I also love video editing, playing piano.
+🔭 I’m currently working on new project<br>💬 Contact me on: aaryamahajan919@gmail.com<br>⚡ Fun fact about me: besides coding, I also love video editing, playing piano, and learning japanese.
 
 
 ## 🌐 Socials:
