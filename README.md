@@ -38,3 +38,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryamahajan919&show_icons=true&locale=en" alt="aaryamahajan919" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&" alt="aaryamahajan919" /></p>
+
+    <div class="container">
+        <h2>Random Joke Generator</h2>
+        <p id="joke">Click the button to get a joke!</p>
+        <button onclick="getJoke()">Get Joke</button>
+    </div>
