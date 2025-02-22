@@ -39,3 +39,36 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&" alt="aaryamahajan919" /></p>
 
+<h1>😂 Random Joke Generator</h1>
+<p>This is a simple web app that fetches a random joke using the Official Joke API.</p>
+
+<h2>🚀 How to Use:</h2>
+<ul>
+  <li>Click the "Get Joke" button to fetch a new joke.</li>
+  <li>The joke setup and punchline will appear below the button.</li>
+</ul>
+
+<h2>📌 Live Demo:</h2>
+<p>Check it out live: <a href="https://your-github-username.github.io/repository-name/" target="_blank">Click Here</a></p>
+
+<h2>🛠 Tech Stack:</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+<h2>📷 Screenshot:</h2>
+<img src="screenshot.png" alt="Joke Generator Screenshot" width="600">
+
+<h2>📥 Installation:</h2>
+<pre>
+git clone https://github.com/your-github-username/repository-name.git
+cd repository-name
+open index.html
+</pre>
+
+<h2>📜 License:</h2>
+<p>This project is open-source and available under the <strong>MIT License</strong>.</p>
+
+
