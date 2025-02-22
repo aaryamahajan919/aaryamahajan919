@@ -39,16 +39,30 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&" alt="aaryamahajan919" /></p>
 
-<h2>📜 Random Quote</h2>
-    <details>
-        <summary>Click to reveal a quote!</summary>
-        <p>"Do what you can, with what you have, where you are." – Theodore Roosevelt</p>
-    </details>
-    <details>
-        <summary>Click to reveal another quote!</summary>
-        <p>"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill</p>
-    </details>
-    <details>
-        <summary>Click to reveal one more!</summary>
-        <p>"Happiness depends upon ourselves." – Aristotle</p>
-    </details>
+<body style="text-align: center; font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 50px;">
+
+    <h2>🎁 Click a Mystery Box to Reveal Your Surprise!</h2>
+
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
+            <summary>🎁 Box 1</summary>
+            🎉 You won a virtual high-five! 🙌
+        </details>
+
+        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
+            <summary>🎁 Box 2</summary>
+            🍕 Free imaginary pizza for you! 🍕
+        </details>
+
+        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
+            <summary>🎁 Box 3</summary>
+            🏆 Congratulations! You are awesome! 💪
+        </details>
+
+        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
+            <summary>🎁 Box 4</summary>
+            🐱 A cute virtual cat says hello! 😺
+        </details>
+    </div>
+
+</body>
