@@ -39,30 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&" alt="aaryamahajan919" /></p>
 
-<body style="text-align: center; font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 50px;">
-
-    <h2>🎁 Click a Mystery Box to Reveal Your Surprise!</h2>
-
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
-            <summary>🎁 Box 1</summary>
-            🎉 You won a virtual high-five! 🙌
-        </details>
-
-        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
-            <summary>🎁 Box 2</summary>
-            🍕 Free imaginary pizza for you! 🍕
-        </details>
-
-        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
-            <summary>🎁 Box 3</summary>
-            🏆 Congratulations! You are awesome! 💪
-        </details>
-
-        <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
-            <summary>🎁 Box 4</summary>
-            🐱 A cute virtual cat says hello! 😺
-        </details>
-    </div>
-
-</body>
+<details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
+    <summary>🎁 Click for a Surprise!</summary>
+    Fun Fact: 😆 Did you know that the Japanese word "karaoke" (カラオケ) comes from "kara" (empty) + "oke" (orchestra)? So technically, every time you sing karaoke, you're rocking out with an invisible band! 🎤🎶😂
+</details>
