@@ -1,7 +1,7 @@
 <img>![Youtube banner2](https://github.com/user-attachments/assets/7487ec95-a4d2-475c-aa63-88ab82dba776)
 </img>
 <h1 align="center">Hi 👋, I'm AARYA</h1>
-<h3 align="center">Web & Cloud Developer ☁️ | Certified JLPT N5</h3>
+<h3 align="center">Web & Cloud Developer ☁️ | Certified JLPT N5 | Upcoming AWS Cloud Practitioner Certified</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryamahajan919" alt="aaryamahajan919" /></a> </p>
 
