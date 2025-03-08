@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryamahajan919&show_icons=true&locale=en" alt="aaryamahajan919" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&" alt="aaryamahajan919" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&" alt="aaryamahajan919" />
 
 <details style="border: 2px solid #333; padding: 20px; width: 150px; text-align: center; cursor: pointer; background: white;">
     <summary>🎁 Click for a Surprise!</summary>
