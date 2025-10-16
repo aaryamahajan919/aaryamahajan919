@@ -1,13 +1,11 @@
 <img>![Youtube banner2](https://github.com/user-attachments/assets/7487ec95-a4d2-475c-aa63-88ab82dba776)
 </img>
 <h1 align="center">Hi 👋, I'm AARYA!</h1>
-<h4 align="center">Web & Cloud Developer ☁ | Certified JLPT N5 | Upcoming AWS Cloud Practitioner Certified and JLPT N4</h4>
+<h4 align="center">Web Developer | Certified JLPT N5</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryamahajan919" alt="aaryamahajan919" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Project**
-
-- 🌱 I’m currently learning **Amazon AWS**
+- 🔭 I’m currently working on **Cloud Project & JLPT N3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryamahajan919](https://github.com/aaryamahajan919)
 
