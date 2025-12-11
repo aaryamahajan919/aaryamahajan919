@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20views&color=0e75b6&style=flat" alt="aaryamahajan919" /> </p>
 
-Visit **[My portfolio](https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/)**
+Visit **[My portfolio](beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app)**
 
 - 🔭 I’m currently working on **Cloud Project & JLPT N3**
 
