@@ -13,7 +13,10 @@ Visit **[My portfolio](https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-
 
 - 💬 Ask me about **Anything!😉**
 
-- 📫 How to reach me **[📧](mailto:aaryamahajan919@gmail.com)**
+- 📫 How to reach me?
+  <a href="mailto:aaryamahajan919@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-blue?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 
 - 📄 Know about my experiences **[My resume](https://aaryamahajan919.github.io/aarya-resume/Aarya-Mahajan-Resume.pdf)**
 
