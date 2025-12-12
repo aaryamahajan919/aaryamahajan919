@@ -37,7 +37,7 @@ Visit My   <!-- Portfolio (Soft Blue Gradient) -->
 <p align="center">
 
 <a href="https://codepen.io/aarya-mahajan" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-CABDFF?style=flat-square&logo=codepen&logoColor=3A2BB4&labelColor=EDE7FF" alt="CodePen"/>
+  <img src="https://img.shields.io/badge/CodePen-E3D4FF?style=flat-square&logo=codepen&logoColor=4B2E83&labelColor=AF7CFF" />
 </a>
 
 <a href="https://github.com/aaryamahajan919" target="_blank">
@@ -45,7 +45,7 @@ Visit My   <!-- Portfolio (Soft Blue Gradient) -->
 </a>
 
 <a href="https://linkedin.com/in/aarya-mahajan-034191231" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-CABDFF?style=flat-square&logo=linkedin&logoColor=3A2BB4&labelColor=EDE7FF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-CABDFF?style=flat-square&logo=linkedin&logoColor=4B2E83&labelColor=9B5CFF" />
 </a>
 
 <a href="https://instagram.com/aarya_m919" target="_blank">
