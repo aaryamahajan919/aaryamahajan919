@@ -176,7 +176,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aaryamahajan919&show_icons=true&title_color=4D3A91&icon_color=7B62DE&text_color=4D3A91&bg_color=F2E9FF&border_color=7B62DE" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&title_color=4D3A91&text_color=4D3A91&bg_color=F2E9FF&border_color=7B62DE" alt="Top Languages" />
 </p>
-
+<!-- ========================= 🌸 COMMIT GRAPH (LAVENDER) ========================= -->
+<h2 align="center">Commit Activity</h2>
+<p align="center">
+  <img src="https://ghchart.rshah.org/7B62DE/aaryamahajan919" alt="Commit chart" width="90%"/>
+</p>
 
 <div align="center">
 
