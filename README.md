@@ -1,4 +1,4 @@
-<img>![Youtube banner2](https://github.com/user-attachments/assets/7487ec95-a4d2-475c-aa63-88ab82dba776)
+<img>![banner](profile banner.png)
 </img>
 <h1 align="center">Hi 👋, I'm AARYA!</h1>
 <h4 align="center">Web Developer | Certified JLPT N5</h4>
