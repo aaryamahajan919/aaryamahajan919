@@ -177,25 +177,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&title_color=4D3A91&text_color=4D3A91&bg_color=F2E9FF&border_color=7B62DE" alt="Top Languages" />
 </p>
 
-<!-- ========================= 🌸 COMMIT GRAPH (LAVENDER) ========================= -->
-<h2 align="center">Commit Activity</h2>
-<p align="center">
-  <img src="https://ghchart.rshah.org/7B62DE/aaryamahajan919" alt="Commit chart" width="90%"/>
-</p>
-
 
 <div align="center">
 
-<details style="
-    border: 2px solid #9B5CFF; 
-    padding: 20px; 
-    width: 280px; 
-    text-align: center; 
-    cursor: pointer; 
-    background: linear-gradient(135deg, #F3E8FF, #E4C8FF);
-    border-radius: 14px;
-    box-shadow: 0 0 12px #cba4ff88;
-">
+<details style="border: 2px solid #9B5CFF; padding: 20px; width: 280px; text-align: center; cursor: pointer; background: linear-gradient(135deg, #F3E8FF, #E4C8FF);border-radius: 14px;box-shadow: 0 0 12px #cba4ff88;">
     <summary style="color:#5B2E90; font-weight:bold;">🎁 Click for a Surprise!</summary>
     <br/>
     <span style="color:#5B2E90;">
