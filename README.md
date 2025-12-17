@@ -74,6 +74,17 @@
 
 
 <h2 align="center">Languages and Tools:</h2>
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+
+
 <table align="center" cellspacing="10" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td align="center" style="border: 0px; border-radius: 10px; padding: 10px;">
