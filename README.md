@@ -3,12 +3,15 @@
 <h1 align="center">Hi 👋, I'm AARYA!</h1>
 <h4 align="center">Web Developer | Certified JLPT N5</h4>
 
+<div>
+  <img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<br>
+
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=4D3A91&labelColor=4D3A91&style=flat-square" 
-    alt="aaryamahajan919" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=4D3A91&labelColor=4D3A91&style=flat-square" alt="aaryamahajan919"/>
 </p>
+
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -28,10 +31,8 @@
   </tr>
 </table>
 
-
+<div align="center">
 <h2 align="center">Connect with me</h2>
-<p align="center">
-
 <a href="https://codepen.io/aarya-mahajan" target="_blank">
   <img src="https://img.shields.io/badge/CodePen-E3D4FF?style=flat-square&color=E3D4FF&logo=codepen&logoColor=4B2E83&labelColor=AF7CFF" />
 </a>
@@ -61,6 +62,8 @@
   <a href="https://leetcode.com/aaryamahajan919" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-CABDFF?style=flat-square&logo=leetcode&logoColor=3A2BB4&labelColor=EDE7FF" alt="LeetCode" />
   </a>
+</div>
+
 
 <h2 align="center">Languages and Tools:</h2>
 <table align="center" cellspacing="10" style="border-collapse: separate; border-spacing: 15px;">
