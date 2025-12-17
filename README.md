@@ -1,19 +1,24 @@
   <img src="./profile banner.png" alt="Profile Banner">
 </img>
-<h1 align="center">Hi 👋, I'm AARYA!</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>, I'm AARYA!</h1>
 <h4 align="center">Web Developer | Certified JLPT N5</h4>
 
-<div>
-  <img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-<br>
+<!-- RIGHT SIDE GIF -->
+<img
+  align="left"
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXo2aXQxaXpzaDRqNDBkcTR5dmxqNnp2aXVlZW9tMHl2enFxbWZ6ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eRTV1ajRifLUGFh084/giphy.gif"
+  width="250"
+  style="max-width:40%; min-width:160px;"
+  alt="developer animation"
+/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=4D3A91&labelColor=4D3A91&style=flat-square" alt="aaryamahajan919"/>
-</p>
+<!-- LEFT SIDE CONTENT (ONE COMPONENT) -->
+<div align="center">
 
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=4D3A91&labelColor=4D3A91&style=flat-square" alt="profile views"/>
+  </p>
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left">
 
@@ -30,6 +35,9 @@
     </td>
   </tr>
 </table>
+</div>
+<br clear="left"/>
+
 
 <div align="center">
 <h2 align="center">Connect with me</h2>
