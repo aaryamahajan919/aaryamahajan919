@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Email-CABDFF?style=flat-square&logo=gmail&logoColor=3A2BB4&labelColor=EDE7FF" />
 </a><br>
 🌸 📄 Resume  
-<a href="https://aaryamahajan919.github.io/aarya-resume/Aarya-Mahajan-Resume.pdf" target="_blank">
+<a href="https://aaryamahajan919.github.io/aarya-resume/Aarya_Mahajan_Resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Resume-CABDFF?style=flat-square&logo=readthedocs&logoColor=3A2BB4&labelColor=EDE7FF" />
 </a>
     </td>
