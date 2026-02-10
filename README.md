@@ -94,15 +94,14 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&ring=7B62DE&fire=5E46C4&currStreakLabel=4D3A91&currStreakNum=4D3A91&background=F2E9FF&sideLabels=4D3A91&dates=6D57C5&stroke=7B62DE&sideNums=4D3A91" alt="Lavender Streak" height="190"/>
 </p>
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" />
+</p>
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight" />
 </p>
 
-
 <div align="center">
-
 <details style="border: 2px solid #9B5CFF; padding: 20px; width: 280px; text-align: center; cursor: pointer; background: linear-gradient(135deg, #F3E8FF, #E4C8FF);border-radius: 14px;box-shadow: 0 0 12px #cba4ff88;">
     <summary style="color:#5B2E90; font-weight:bold;">🎁 Click for a Surprise!</summary>
     <br/>
