@@ -99,11 +99,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight" />
 </p>
-<!-- ========================= 🌸 COMMIT GRAPH (LAVENDER) ========================= -->
-<h2 align="center">Commit Activity</h2>
-<p align="center">
-  <img src="https://ghchart.rshah.org/7B62DE/aaryamahajan919" alt="Commit chart" width="90%"/>
-</p>
+
 
 <div align="center">
 
