@@ -96,8 +96,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aaryamahajan919&show_icons=true&title_color=4D3A91&icon_color=7B62DE&text_color=4D3A91&bg_color=F2E9FF&border_color=7B62DE" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&title_color=4D3A91&text_color=4D3A91&bg_color=F2E9FF&border_color=7B62DE" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight" />
 </p>
 <!-- ========================= 🌸 COMMIT GRAPH (LAVENDER) ========================= -->
 <h2 align="center">Commit Activity</h2>
