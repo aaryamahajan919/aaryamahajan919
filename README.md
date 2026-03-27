@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:e9d5ff,40:d8b4fe,60:c084fc,80:a855f7,100:7e22ce&height=260&section=header&text=ᗩᗩᖇYᗩ%20ᗰᗩᕼᗩᒍᗩᑎ&fontSize=62&fontColor=2b0733&fontAlignY=30&desc=✨%20Multilingual%20Software%20Developer✨&descAlignY=55&descSize=17&descColor=black&stroke=black&strokeWidth=1.5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:d8b4fe,40:c084fc,60:a855f7,80:7e22ce,100:4c1d95&height=260&section=header&text=ᗩᗩᖇYᗩ%20ᗰᗩᕼᗩᒍᗩᑎ&fontSize=62&fontColor=2b0733&fontAlignY=30&desc=✨%20Multilingual%20Software%20Developer✨&descAlignY=55&descSize=17&descColor=black&stroke=black&strokeWidth=1.5&animation=fadeIn" width="100%"/>
  
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>, I'm AARYA!</h1>
 <h4 align="center">Web Developer | Certified JLPT N5</h4>
