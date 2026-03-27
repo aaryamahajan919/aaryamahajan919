@@ -1,5 +1,5 @@
-  <img src="./profile banner.png" alt="Profile Banner">
-</img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:e9d5ff,40:d8b4fe,60:c084fc,80:a855f7,100:7e22ce&height=260&section=header&text=ᗩᗩᖇYᗩ%20ᗰᗩᕼᗩᒍᗩᑎ&fontSize=62&fontColor=2b0733&fontAlignY=30&desc=✨%20Multilingual%20Software%20Developer✨&descAlignY=55&descSize=17&descColor=black&stroke=black&strokeWidth=1.5&animation=fadeIn" width="100%"/>
+ 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>, I'm AARYA!</h1>
 <h4 align="center">Web Developer | Certified JLPT N5</h4>
 
@@ -15,7 +15,7 @@
 <div>
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=4D3A91&labelColor=4D3A91&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=3e1e63&labelColor=4D3A91&style=flat-square"
     alt="profile views"
   />
 </p>
@@ -92,7 +92,7 @@
 <h2 align="center">Stats & Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&ring=7B62DE&fire=5E46C4&currStreakLabel=4D3A91&currStreakNum=4D3A91&background=F2E9FF&sideLabels=4D3A91&dates=6D57C5&stroke=7B62DE&sideNums=4D3A91" alt="Lavender Streak" height="190"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&ring=501e63&fire=501e63&currStreakLabel=4D3A91&currStreakNum=4D3A91&background=F2E9FF&sideLabels=4D3A91&dates=6D57C5&stroke=7B62DE&sideNums=4D3A91" alt="Lavender Streak" height="190"/>
 </p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" />
@@ -100,6 +100,15 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight" />
 </p>
+
+<h2 align="center">🐍 Swallowing My Contributions</h2>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryamahajan919/aaryamahajan919/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryamahajan919/aaryamahajan919/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aaryamahajan919/aaryamahajan919/output/github-contribution-grid-snake-dark.svg" width="90%">
+</picture>
+</div>
 
 <div align="center">
 <details style="border: 2px solid #9B5CFF; padding: 20px; width: 280px; text-align: center; cursor: pointer; background: linear-gradient(135deg, #F3E8FF, #E4C8FF);border-radius: 14px;box-shadow: 0 0 12px #cba4ff88;">
@@ -115,5 +124,5 @@
 </div>
 
 <p align="center">
-  <small style="color:#6D57C5;">Built with 💜</small>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:e9d5ff,40:d8b4fe,60:c084fc,80:a855f7,100:7e22ce&height=120&section=footer&text=made%20with%20˚ʚ♡ɞ˚%20by%20AARYA&fontSize=18&fontColor=2b0733&fontAlignY=75&animation=fadeIn" width="100%"/>
 </p>
