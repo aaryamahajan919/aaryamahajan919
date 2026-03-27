@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/GitHub-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" alt="GitHub"/>
 </a>
 
-<a href="https://linkedin.com/in/aarya-mahajan-034191231" target="_blank">
+<a href="https://www.linkedin.com/in/its-aarya-desu/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-CABDFF?style=flat-square&color=CABDFF&logo=linkedin&logoColor=4B2E83&labelColor=9B5CFF" />
 </a>
 
