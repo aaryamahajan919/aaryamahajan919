@@ -1,11 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:d8b4fe,40:c084fc,60:a855f7,80:7e22ce,100:4c1d95&height=260&section=header&text=ᗩᗩᖇYᗩ%20ᗰᗩᕼᗩᒍᗩᑎ&fontSize=62&fontColor=2b0733&fontAlignY=30&desc=✨%20Multilingual%20Software%20Developer✨&descAlignY=55&descSize=17&descColor=black&stroke=black&strokeWidth=1.5&animation=fadeIn" width="100%"/>
+
  
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>, I'm AARYA!</h1>
 <h4 align="center">Web Developer | Certified JLPT N5</h4>
 
 <!-- LEFT SIDE GIF -->
 <img
-  align="right"
+  align="left"
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXo2aXQxaXpzaDRqNDBkcTR5dmxqNnp2aXVlZW9tMHl2enFxbWZ6ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eRTV1ajRifLUGFh084/giphy.gif"
   width="230"
   style="max-width:60%; min-width:160px;"
@@ -92,7 +93,7 @@
 <h2 align="center">Stats & Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryamahajan919&ring=501e63&fire=501e63&currStreakLabel=4D3A91&currStreakNum=4D3A91&background=F2E9FF&sideLabels=4D3A91&dates=6D57C5&stroke=7B62DE&sideNums=4D3A91" alt="Lavender Streak" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=aaryamahajan919&theme=tokyonight&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7"/>
 </p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" />
