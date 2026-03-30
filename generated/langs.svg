@@ -1,0 +1,21 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { fill: #a855f7; font-size: 18px; font-family: Arial, sans-serif; }
+    .label { fill: #a855f7; font-size: 12px; font-family: Arial, sans-serif; }
+    .bar { fill: #c084fc; }
+  </style>
+
+  <text x="20" y="30" class="title">Top Languages</text>
+
+  <text x="20" y="70" class="label">JavaScript</text>
+  <rect x="120" y="60" width="200" height="10" class="bar"/>
+
+  <text x="20" y="100" class="label">Python</text>
+  <rect x="120" y="90" width="160" height="10" class="bar"/>
+
+  <text x="20" y="130" class="label">HTML/CSS</text>
+  <rect x="120" y="120" width="140" height="10" class="bar"/>
+
+  <text x="20" y="160" class="label">SQL</text>
+  <rect x="120" y="150" width="100" height="10" class="bar"/>
+</svg>
