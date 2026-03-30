@@ -115,81 +115,25 @@
 </p>
 
 <!-- top languages-->
-<!--START_LANG_CHART-->
 <p align="center">
   <picture>
     <!-- 🌙 Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c={
-      type:'doughnut',
-      data:{
-        labels:['Python','JavaScript','CSS','HTML','Java','HCL'],
-        datasets:[{
-          data:[1799659,75466,4319,3871,1214,208],
-          backgroundColor:[
-            '#cba6f7',
-            '#a084e8',
-            '#d6ccff',
-            '#f5c2e7',
-            '#b4befe',
-            '#cdd6f4'
-          ],
-          borderWidth:2
-        }]
-      },
-      options:{
-        cutout:'65%',
-        layout:{padding:20},
-        plugins:{
-          legend:{
-            position:'bottom',
-            labels:{
-              color:'#cdd6f4',
-              boxWidth:12,
-              padding:15,
-              font:{size:12}
-            }
-          }
-        }
-      }
-    }&backgroundColor=%230d1117" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=0d1117&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&border_color=302d41&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
     <!-- 🌞 Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?c={
-      type:'doughnut',
-      data:{
-        labels:['Python','JavaScript','CSS','HTML','Java','HCL'],
-        datasets:[{
-          data:[1799659,75466,4319,3871,1214,208],
-          backgroundColor:[
-            '#6b4de6',
-            '#8b6cf0',
-            '#b9a7ff',
-            '#e0d4ff',
-            '#cdb4ff',
-            '#a084e8'
-          ],
-          borderWidth:2
-        }]
-      },
-      options:{
-        cutout:'65%',
-        layout:{padding:20},
-        plugins:{
-          legend:{
-            position:'bottom',
-            labels:{
-              color:'#4b4453',
-              boxWidth:12,
-              padding:15,
-              font:{size:12}
-            }
-          }
-        }
-      }
-    }&backgroundColor=%23faf4ff" />
-    <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','JavaScript','CSS','HTML','Java','HCL'],datasets:[{data:[1799659,75466,4319,3871,1214,208]}]}}" width="420"/>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=faf4ff&title_color=6b4de6&text_color=4b4453&icon_color=a084e8&border_color=d6ccff&langs_count=8"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- fallback -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&theme=tokyonight"
+      height="180"
+    />
   </picture>
 </p>
-<!--END_LANG_CHART-->
 
 <h2 align="center">🐍 Swallowing My Contributions</h2>
 <div align="center">
