@@ -117,21 +117,17 @@
 <!-- top languages-->
 <p align="center">
   <picture>
-    <!-- 🌙 Dark Mode -->
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=0d1117&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&border_color=302d41&langs_count=8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <!-- 🌞 Light Mode -->
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=cdd6f4&icon_color=c084fc&border_color=0d1117"
+    >
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=faf4ff&title_color=6b4de6&text_color=4b4453&icon_color=a084e8&border_color=d6ccff&langs_count=8"
-      media="(prefers-color-scheme: light)"
-    />
-    <!-- fallback -->
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=ffffff&title_color=a855f7&text_color=4b4453&icon_color=c084fc&border_color=ffffff"
+    >
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&theme=tokyonight"
-      height="180"
-    />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact"
+    >
   </picture>
 </p>
 
