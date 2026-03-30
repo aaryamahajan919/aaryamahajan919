@@ -30,11 +30,15 @@ jobs:
         run: |
           curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=default" > generated/profile-light.svg
 
-      - name: Fix Light Graph Colors (Lavender)
+      - name: Fix Light Graph Colors (Lavender Hardcore)
         run: |
           sed -i 's/#58a6ff/#a855f7/g' generated/profile-light.svg
           sed -i 's/#1f6feb/#c084fc/g' generated/profile-light.svg
           sed -i 's/#79c0ff/#c084fc/g' generated/profile-light.svg
+          sed -i 's/#218bff/#a855f7/g' generated/profile-light.svg
+          sed -i 's/#0969da/#c084fc/g' generated/profile-light.svg
+          sed -i 's/rgb(31,111,235)/rgb(168,85,247)/g' generated/profile-light.svg
+          sed -i 's/rgb(88,166,255)/rgb(192,132,252)/g' generated/profile-light.svg
 
       - name: Light - Languages
         run: |
@@ -54,11 +58,15 @@ jobs:
         run: |
           curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" > generated/profile-dark.svg
 
-      - name: Fix Dark Graph Colors (Lavender)
+      - name: Fix Dark Graph Colors (Lavender Hardcore)
         run: |
           sed -i 's/#58a6ff/#a855f7/g' generated/profile-dark.svg
           sed -i 's/#1f6feb/#c084fc/g' generated/profile-dark.svg
           sed -i 's/#79c0ff/#c084fc/g' generated/profile-dark.svg
+          sed -i 's/#218bff/#a855f7/g' generated/profile-dark.svg
+          sed -i 's/#0969da/#c084fc/g' generated/profile-dark.svg
+          sed -i 's/rgb(31,111,235)/rgb(168,85,247)/g' generated/profile-dark.svg
+          sed -i 's/rgb(88,166,255)/rgb(192,132,252)/g' generated/profile-dark.svg
 
       - name: Dark - Languages
         run: |
