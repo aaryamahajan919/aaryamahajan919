@@ -1,0 +1,74 @@
+name: Update Language Donut Chart
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get language stats
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          https://api.github.com/users/aaryamahajan919/repos > repos.json
+
+      - name: Generate chart data
+        run: |
+          node <<EOF
+          const fs = require('fs');
+          const repos = JSON.parse(fs.readFileSync('repos.json'));
+
+          const langs = {};
+          for (const repo of repos) {
+            if (repo.language) {
+              langs[repo.language] = (langs[repo.language] || 0) + 1;
+            }
+          }
+
+          const labels = Object.keys(langs);
+          const data = Object.values(langs);
+
+          const colors = [
+            "#cba6f7","#a084e8","#d6ccff","#f5c2e7","#b4befe","#cdd6f4"
+          ];
+
+          const chartURL = `https://quickchart.io/chart?c=${encodeURIComponent(JSON.stringify({
+            type: 'doughnut',
+            data: {
+              labels: labels,
+              datasets: [{
+                data: data,
+                backgroundColor: colors
+              }]
+            },
+            options: {
+              plugins: {
+                legend: {
+                  labels: { color: "#cdd6f4" }
+                }
+              }
+            }
+          }))}`;
+
+          const readme = `
+## 💜 Language Donut Chart
+
+![Lang Chart](${chartURL})
+`;
+
+          fs.writeFileSync("README.md", readme);
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "update chart" || echo "No changes"
+          git push
