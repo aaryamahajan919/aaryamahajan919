@@ -88,17 +88,31 @@
   </picture>
 </p>
 
-<!-- ========================= 📊 STATS & STREAKS (lavender theme) ========================= -->
+<!-- ========================= 📊 STATS & STREAKS ========================= -->
 <h2 align="center">Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaryamahajan919&theme=tokyonight&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7"/>
+  <!-- Light -->
+  <img src="https://streak-stats.demolab.com?user=aaryamahajan919&theme=default&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=a855f7#gh-light-mode-only" />
+  
+  <!-- Dark -->
+  <img src="https://streak-stats.demolab.com?user=aaryamahajan919&theme=tokyonight&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7#gh-dark-mode-only" />
 </p>
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" />
+  <!-- Light -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=default&title_color=a855f7&text_color=a855f7&icon_color=c084fc&line_color=a855f7#gh-light-mode-only" />
+  
+  <!-- Dark -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight#gh-dark-mode-only" />
 </p>
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight" />
+  <!-- Light -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=default&title_color=a855f7&text_color=a855f7&icon_color=c084fc#gh-light-mode-only" />
+  
+  <!-- Dark -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight#gh-dark-mode-only" />
 </p>
 
 <h2 align="center">🐍 Swallowing My Contributions</h2>
