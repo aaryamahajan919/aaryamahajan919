@@ -1,0 +1,36 @@
+name: Generate Top Languages
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Create folder
+        run: mkdir -p generated
+
+      - name: Generate Languages (Light)
+        run: |
+          curl -L -A "Mozilla/5.0" --retry 5 \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&hide_border=true&bg_color=ffffff&title_color=a855f7&text_color=a855f7" \
+          -o generated/langs-light.svg
+
+      - name: Generate Languages (Dark)
+        run: |
+          curl -L -A "Mozilla/5.0" --retry 5 \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&theme=tokyonight&hide_border=true" \
+          -o generated/langs-dark.svg
+
+      - name: Commit files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add generated/*
+          git commit -m "update langs" || echo "no changes"
+          git push
