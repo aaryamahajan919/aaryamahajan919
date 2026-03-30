@@ -26,7 +26,7 @@
 <a href="https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-CABDFF?style=flat-square&logo=vercel&logoColor=3A2BB4&labelColor=EDE7FF" />
 </a><br>
-🌸 🔭 I’m currently working on <b>Cloud Project & JLPT N3</b><br>
+🌸 🔭 I’m currently working on <b>AWS, AZURE, GCP & JLPT N3</b><br>
 🌸 👨‍💻 Project docs  
 <a href="https://github.com/aaryamahajan919?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/Documentation-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" />
