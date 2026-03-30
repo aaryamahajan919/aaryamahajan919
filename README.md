@@ -103,26 +103,23 @@
 
 <!-- graph-->
 <p align="center">
-<picture>
-  <!-- 🌙 Dark -->
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight">
-  <!-- 🌸 Light (PURE lavender enforced) -->
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=transparent&title_color=a855f7&text_color=a855f7&icon_color=a855f7&line_color=c084fc&bg_color=ffffff">
-  <!-- fallback -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=transparent">
-</picture>
-  
+  <picture>
+    <!-- 🌙 Dark -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=aaryamahajan919&theme=tokyo-night&hide_border=true&area=true">
+    <!-- 🌸 Light (STRICT lavender only) -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=aaryamahajan919&bg_color=ffffff&color=a855f7&line=a855f7&point=c084fc&area=true&area_color=c084fc&hide_border=true&radius=8">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamahajan919&bg_color=ffffff&color=a855f7&line=a855f7&point=c084fc&area=true&area_color=c084fc&hide_border=true&radius=8">
+  </picture>
 </p>
+
 <!-- top languages-->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=default&title_color=a855f7&text_color=a855f7&icon_color=c084fc">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="./generated/langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./generated/langs-light.svg">
+    <img src="./generated/langs-light.svg">
   </picture>
 </p>
 
