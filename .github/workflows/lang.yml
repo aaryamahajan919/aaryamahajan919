@@ -10,27 +10,36 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Create folder
+      - name: Create generated folder
         run: mkdir -p generated
 
-      - name: Generate Languages (Light)
+      # ================== 🌸 LIGHT MODE ==================
+
+      - name: Generate Languages (Light - Lavender)
         run: |
-          curl -L -A "Mozilla/5.0" --retry 5 \
-          "https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&hide_border=true&bg_color=ffffff&title_color=a855f7&text_color=a855f7" \
+          sleep 5
+          curl -L -H "User-Agent: github-actions" \
+          "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&hide_border=true&bg_color=ffffff&title_color=a855f7&text_color=a855f7&cache_seconds=86400" \
           -o generated/langs-light.svg
+
+      # ================== 🌙 DARK MODE ==================
 
       - name: Generate Languages (Dark)
         run: |
-          curl -L -A "Mozilla/5.0" --retry 5 \
-          "https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&theme=tokyonight&hide_border=true" \
+          sleep 5
+          curl -L -H "User-Agent: github-actions" \
+          "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" \
           -o generated/langs-dark.svg
 
-      - name: Commit files
+      # ================== 🚀 COMMIT ==================
+
+      - name: Commit generated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add generated/*
-          git commit -m "update langs" || echo "no changes"
+          git add generated/langs-*.svg
+          git commit -m "Update top languages (lavender stable)" || echo "No changes"
           git push
