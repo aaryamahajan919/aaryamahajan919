@@ -117,9 +117,12 @@
 <!-- top languages-->
 <p align="center">
   <picture>
+    <!-- 🌙 Dark Mode -->
     <source media="(prefers-color-scheme: dark)" srcset="./generated/langs-dark.svg">
+    <!-- 🌸 Light Mode -->
     <source media="(prefers-color-scheme: light)" srcset="./generated/langs-light.svg">
-    <img src="./generated/langs-light.svg">
+    <!-- Fallback -->
+    <img src="./generated/langs-light.svg" alt="Top Languages">
   </picture>
 </p>
 
