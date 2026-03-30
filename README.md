@@ -117,17 +117,9 @@
 <!-- top languages-->
 <p align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=cdd6f4&icon_color=c084fc&border_color=0d1117"
-    >
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=ffffff&title_color=a855f7&text_color=4b4453&icon_color=c084fc&border_color=ffffff"
-    >
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact"
-    >
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=1E1E2F&title_color=CBA6F7&text_color=E0DEF4&icon_color=F5C2E7&border_color=313244"media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=E6E6FA&title_color=6A0DAD&text_color=4B0082&icon_color=9370DB&border_color=C8A2C8"media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&langs_count=10"height="180em"/>
   </picture>
 </p>
 
