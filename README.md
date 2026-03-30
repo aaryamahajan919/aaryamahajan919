@@ -118,9 +118,75 @@
 <!--START_LANG_CHART-->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%22%2C%22CSS%22%2C%22HTML%22%2C%22HCL%22%2C%22Python%22%2C%22Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B75466%2C4319%2C3871%2C208%2C1799659%2C1214%5D%2C%22backgroundColor%22%3A%5B%22%23cba6f7%22%2C%22%23a084e8%22%2C%22%23d6ccff%22%2C%22%23f5c2e7%22%2C%22%23b4befe%22%2C%22%23cdd6f4%22%5D%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23cdd6f4%22%7D%7D%7D%7D%7D&backgroundColor=#0d1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%22%2C%22CSS%22%2C%22HTML%22%2C%22HCL%22%2C%22Python%22%2C%22Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B75466%2C4319%2C3871%2C208%2C1799659%2C1214%5D%2C%22backgroundColor%22%3A%5B%22%236b4de6%22%2C%22%238b6cf0%22%2C%22%23b9a7ff%22%2C%22%23e0d4ff%22%2C%22%23cdb4ff%22%2C%22%23a084e8%22%5D%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%234b4453%22%7D%7D%7D%7D%7D&backgroundColor=#faf4ff">
-    <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%22%2C%22CSS%22%2C%22HTML%22%2C%22HCL%22%2C%22Python%22%2C%22Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B75466%2C4319%2C3871%2C208%2C1799659%2C1214%5D%2C%22backgroundColor%22%3A%5B%22%23cba6f7%22%2C%22%23a084e8%22%2C%22%23d6ccff%22%2C%22%23f5c2e7%22%2C%22%23b4befe%22%2C%22%23cdd6f4%22%5D%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23cdd6f4%22%7D%7D%7D%7D%7D&backgroundColor=#0d1117" width="400">
+    <!-- 🌙 Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c={
+      type:'doughnut',
+      data:{
+        labels:['Python','JavaScript','CSS','HTML','Java','HCL'],
+        datasets:[{
+          data:[1799659,75466,4319,3871,1214,208],
+          backgroundColor:[
+            '#cba6f7',
+            '#a084e8',
+            '#d6ccff',
+            '#f5c2e7',
+            '#b4befe',
+            '#cdd6f4'
+          ],
+          borderWidth:2
+        }]
+      },
+      options:{
+        cutout:'65%',
+        layout:{padding:20},
+        plugins:{
+          legend:{
+            position:'bottom',
+            labels:{
+              color:'#cdd6f4',
+              boxWidth:12,
+              padding:15,
+              font:{size:12}
+            }
+          }
+        }
+      }
+    }&backgroundColor=%230d1117" />
+    <!-- 🌞 Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?c={
+      type:'doughnut',
+      data:{
+        labels:['Python','JavaScript','CSS','HTML','Java','HCL'],
+        datasets:[{
+          data:[1799659,75466,4319,3871,1214,208],
+          backgroundColor:[
+            '#6b4de6',
+            '#8b6cf0',
+            '#b9a7ff',
+            '#e0d4ff',
+            '#cdb4ff',
+            '#a084e8'
+          ],
+          borderWidth:2
+        }]
+      },
+      options:{
+        cutout:'65%',
+        layout:{padding:20},
+        plugins:{
+          legend:{
+            position:'bottom',
+            labels:{
+              color:'#4b4453',
+              boxWidth:12,
+              padding:15,
+              font:{size:12}
+            }
+          }
+        }
+      }
+    }&backgroundColor=%23faf4ff" />
+    <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','JavaScript','CSS','HTML','Java','HCL'],datasets:[{data:[1799659,75466,4319,3871,1214,208]}]}}" width="420"/>
   </picture>
 </p>
 <!--END_LANG_CHART-->
