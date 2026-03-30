@@ -94,7 +94,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://streak-stats.demolab.com?user=aaryamahajan919&theme=tokyonight&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7">
+      srcset="https://streak-stats.demolab.com?user=aaryamahajan919&theme=tokyonight&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=a855f7">
     <source media="(prefers-color-scheme: light)" 
       srcset="https://streak-stats.demolab.com?user=aaryamahajan919&theme=default&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=a855f7">
     <img src="https://streak-stats.demolab.com?user=aaryamahajan919&theme=default&hide_border=true">
@@ -106,7 +106,7 @@
   <picture>
     <!-- 🌙 Dark -->
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=aaryamahajan919&theme=tokyo-night&hide_border=true&area=true">
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=aaryamahajan919&theme=tokyo-night&bg_color=black&color=a855f7&line=a855f7&point=c084fc&area=true&area_color=c084fc&hide_border=true&radius=8">
     <!-- 🌸 Light (STRICT lavender only) -->
     <source media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=aaryamahajan919&bg_color=ffffff&color=a855f7&line=a855f7&point=c084fc&area=true&area_color=c084fc&hide_border=true&radius=8">
@@ -118,10 +118,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight">
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=a855f7&icon_color=c084fc">
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=default&title_color=a855f7&text_color=a855f7&icon_color=c084fc">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=default">
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=default&hide_border=true&title_color=a855f7&text_color=a855f7&icon_color=c084fc">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaryamahajan919&theme=default&hide_border=true">
   </picture>
 </p>
 
