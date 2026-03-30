@@ -100,15 +100,20 @@
     <img src="https://streak-stats.demolab.com?user=aaryamahajan919&theme=default&hide_border=true">
   </picture>
 </p>
+
 <!-- graph-->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=default&title_color=a855f7&text_color=a855f7&icon_color=c084fc&line_color=a855f7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=default">
-  </picture>
+<picture>
+  <!-- 🌙 Dark -->
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight">
+  <!-- 🌸 Light (PURE lavender enforced) -->
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=transparent&title_color=a855f7&text_color=a855f7&icon_color=a855f7&line_color=c084fc&bg_color=ffffff">
+  <!-- fallback -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=transparent">
+</picture>
+  
 </p>
 <!-- top languages-->
 <p align="center">
