@@ -90,7 +90,7 @@
 
 <!-- ========================= 📊 STATS & STREAKS ========================= -->
 <h2 align="center">Stats & Activity</h2>
-
+<!-- streak-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -100,7 +100,7 @@
     <img src="https://streak-stats.demolab.com?user=aaryamahajan919&theme=default&hide_border=true">
   </picture>
 </p>
-
+<!-- graph-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -110,7 +110,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=default">
   </picture>
 </p>
-
+<!-- top languages-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
