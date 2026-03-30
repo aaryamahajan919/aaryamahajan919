@@ -117,9 +117,18 @@
 <!-- top languages-->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./generated/langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./generated/langs-light.svg">
-    <img src="./generated/langs-light.svg">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=faf4ff&title_color=6b4de6&text_color=4b4453&icon_color=a084e8&border_color=d6ccff&langs_count=8"
+      media="(prefers-color-scheme: light)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&bg_color=0d1117&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&border_color=302d41&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&theme=tokyonight"
+      height="180"
+    />
   </picture>
 </p>
 
