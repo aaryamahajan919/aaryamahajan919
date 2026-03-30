@@ -1,4 +1,4 @@
-name: Generate Lavender Stats
+name: Generate Top Languages
 
 on:
   schedule:
@@ -13,60 +13,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Create folder
+      - name: Create generated folder
         run: mkdir -p generated
 
       # ================== 🌸 LIGHT MODE ==================
 
-      - name: Light - GitHub Stats
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=aaryamahajan919&show_icons=true&hide_border=true&bg_color=ffffff&title_color=a855f7&text_color=a855f7&icon_color=c084fc" > generated/stats-light.svg
-
-      - name: Light - Streak
-        run: |
-          curl -s "https://streak-stats.demolab.com?user=aaryamahajan919&theme=default&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=a855f7" > generated/streak-light.svg
-
-      - name: Light - Profile Graph
-        run: |
-          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=default" > generated/profile-light.svg
-
-      - name: Fix Light Graph Colors (Lavender Hardcore)
-        run: |
-          sed -i 's/#58a6ff/#a855f7/g' generated/profile-light.svg
-          sed -i 's/#1f6feb/#c084fc/g' generated/profile-light.svg
-          sed -i 's/#79c0ff/#c084fc/g' generated/profile-light.svg
-          sed -i 's/#218bff/#a855f7/g' generated/profile-light.svg
-          sed -i 's/#0969da/#c084fc/g' generated/profile-light.svg
-          sed -i 's/rgb(31,111,235)/rgb(168,85,247)/g' generated/profile-light.svg
-          sed -i 's/rgb(88,166,255)/rgb(192,132,252)/g' generated/profile-light.svg
-
-      - name: Light - Languages
+      - name: Light - Languages (Lavender)
         run: |
           curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=aaryamahajan919&layout=compact&hide_border=true&bg_color=ffffff&title_color=a855f7&text_color=a855f7" > generated/langs-light.svg
 
       # ================== 🌙 DARK MODE ==================
-
-      - name: Dark - GitHub Stats
-        run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=aaryamahajan919&show_icons=true&theme=tokyonight&hide_border=true" > generated/stats-dark.svg
-
-      - name: Dark - Streak
-        run: |
-          curl -s "https://streak-stats.demolab.com?user=aaryamahajan919&theme=tokyonight&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=a855f7" > generated/streak-dark.svg
-
-      - name: Dark - Profile Graph
-        run: |
-          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryamahajan919&theme=tokyonight" > generated/profile-dark.svg
-
-      - name: Fix Dark Graph Colors (Lavender Hardcore)
-        run: |
-          sed -i 's/#58a6ff/#a855f7/g' generated/profile-dark.svg
-          sed -i 's/#1f6feb/#c084fc/g' generated/profile-dark.svg
-          sed -i 's/#79c0ff/#c084fc/g' generated/profile-dark.svg
-          sed -i 's/#218bff/#a855f7/g' generated/profile-dark.svg
-          sed -i 's/#0969da/#c084fc/g' generated/profile-dark.svg
-          sed -i 's/rgb(31,111,235)/rgb(168,85,247)/g' generated/profile-dark.svg
-          sed -i 's/rgb(88,166,255)/rgb(192,132,252)/g' generated/profile-dark.svg
 
       - name: Dark - Languages
         run: |
@@ -78,6 +34,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add generated/*
-          git commit -m "Update lavender themed stats" || echo "No changes"
+          git add generated/langs-*.svg
+          git commit -m "Update top languages (lavender theme)" || echo "No changes"
           git push
