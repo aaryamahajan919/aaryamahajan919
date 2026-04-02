@@ -3,50 +3,45 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>, I'm AARYA!</h1>
 <h4 align="center">Software Developer | Certified JLPT N5</h4>
 
-<table align="center" width="80%">
-  <tr>
-    <!-- LEFT SIDE GIF -->
-    <td align="center" valign="middle" width="40%">
-      <img
-        src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXo2aXQxaXpzaDRqNDBkcTR5dmxqNnp2aXVlZW9tMHl2enFxbWZ6ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eRTV1ajRifLUGFh084/giphy.gif"
-        width="220"
-        alt="developer animation"
-      />
-    </td>
-    <!-- RIGHT SIDE CONTENT -->
-    <td align="left" valign="middle" width="60%">
-      <!-- PROFILE VIEWS -->
-      <p align="left">
+<div align="center">
+
+  <!-- MAIN CONTAINER TABLE (RESPONSIVE BEHAVIOR) -->
+  <table align="center" width="100%" style="max-width:900px;">
+    <tr>
+      <!-- GIF -->
+      <td align="center" valign="middle">
+        <img
+          src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXo2aXQxaXpzaDRqNDBkcTR5dmxqNnp2aXVlZW9tMHl2enFxbWZ6ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eRTV1ajRifLUGFh084/giphy.gif"
+          width="220"
+          alt="developer animation"/>
+      </td>
+      <!-- TEXT -->
+      <td align="left" valign="middle" style="padding-left:20px;">
         <img
           src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=3e1e63&labelColor=4D3A91&style=flat-square"
-          alt="profile views"/>
-      </p>
-      🌸 Visit My  
-      <a href="https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-CABDFF?style=flat-square&logo=vercel&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a>
-      <br>
-      🌸 🔭 I’m currently working on <b>AWS, AZURE, GCP & JLPT N3</b>
-      <br>
-      🌸 👨‍💻 Project docs  
-      <a href="https://github.com/aaryamahajan919?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Documentation-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a>
-      <br>
-      🌸 💬 Ask me about <b>Anything! 😉</b>
-      <br>
-      🌸 📫 Reach me  
-      <a href="mailto:aaryamahajan919@gmail.com">
-        <img src="https://img.shields.io/badge/Email-CABDFF?style=flat-square&logo=gmail&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a>
-      <br>
-      🌸 📄 See my  
-      <a href="https://aaryamahajan919.github.io/aarya-resume/Aarya_Mahajan_Resume.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-CABDFF?style=flat-square&logo=readthedocs&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a>
-    </td>
-  </tr>
-</table> <br>
+          alt="profile views"/><br><br>
+        🌸 Visit My  
+        <a href="https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-CABDFF?style=flat-square&logo=vercel&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a><br>
+        🌸 🔭 I’m currently working on <b>AWS, AZURE, GCP & JLPT N3</b><br>
+        🌸 👨‍💻 Project docs  
+        <a href="https://github.com/aaryamahajan919?tab=repositories">
+          <img src="https://img.shields.io/badge/Documentation-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a><br>
+        🌸 💬 Ask me about <b>Anything! 😉</b><br>
+        🌸 📫 Reach me  
+        <a href="mailto:aaryamahajan919@gmail.com">
+          <img src="https://img.shields.io/badge/Email-CABDFF?style=flat-square&logo=gmail&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a><br>
+        🌸 📄 See my  
+        <a href="https://aaryamahajan919.github.io/aarya-resume/Aarya_Mahajan_Resume.pdf">
+          <img src="https://img.shields.io/badge/Resume-CABDFF?style=flat-square&logo=readthedocs&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 <h2 align="center">Connect with me</h2>
