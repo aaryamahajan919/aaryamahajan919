@@ -17,28 +17,50 @@
         src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=3e1e63&labelColor=4D3A91&style=flat-square"
         alt="profile views"/>
     </p>
-    <!-- TEXT BLOCK (KEY FIX HERE) -->
-    <div align="center" text-align="left" style="max-width:480px; margin:0 auto; font-size:14px; line-height:1.6;">
-      🌸 Visit My  
-      <a href="https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-CABDFF?style=flat-square&logo=vercel&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a><br>
-      🌸 🔭 I’m currently working on <b>AWS, AZURE, GCP & JLPT N3</b><br>
-      🌸 👨‍💻 Project docs  
-      <a href="https://github.com/aaryamahajan919?tab=repositories">
-        <img src="https://img.shields.io/badge/Documentation-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a><br>
-      🌸 💬 Ask me about <b>Anything! 😉</b><br>
-      🌸 📫 Reach me  
-      <a href="mailto:aaryamahajan919@gmail.com">
-        <img src="https://img.shields.io/badge/Email-CABDFF?style=flat-square&logo=gmail&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a><br>
-      🌸 📄 See my  
-      <a href="https://aaryamahajan919.github.io/aarya-resume/Aarya_Mahajan_Resume.pdf">
-        <img src="https://img.shields.io/badge/Resume-CABDFF?style=flat-square&logo=readthedocs&logoColor=3A2BB4&labelColor=EDE7FF" />
-      </a>
-    </div>
   </div>
+</div>
+
+<div align="center">
+  <table width="520" style="
+    border-radius:16px;
+    border:1px solid #d8ccff;
+    padding:20px;">
+    <tr>
+      <td align="left" style="
+        background:#f3efff;
+        border-radius:16px;
+        padding:20px;
+        font-size:14px;
+        line-height:1.8;
+      ">
+        🌸 <b>Visit My</b>  
+        <a href="https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-CABDFF?style=flat-square&logo=vercel&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a>
+        <br>
+        🌸 🔭 I’m currently working on  
+        <b>AWS, AZURE, GCP & JLPT N3</b>
+        <br>
+        🌸 👨‍💻 <b>Project docs</b>  
+        <a href="https://github.com/aaryamahajan919?tab=repositories">
+          <img src="https://img.shields.io/badge/Documentation-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a>
+        <br>
+        🌸 💬 Ask me about  
+        <b>Anything! 😉</b>
+        <br>
+        🌸 📫 <b>Reach me</b>  
+        <a href="mailto:aaryamahajan919@gmail.com">
+          <img src="https://img.shields.io/badge/Email-CABDFF?style=flat-square&logo=gmail&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a>
+        <br>
+        🌸 📄 <b>See my</b>  
+        <a href="https://aaryamahajan919.github.io/aarya-resume/Aarya_Mahajan_Resume.pdf">
+          <img src="https://img.shields.io/badge/Resume-CABDFF?style=flat-square&logo=readthedocs&logoColor=3A2BB4&labelColor=EDE7FF" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
