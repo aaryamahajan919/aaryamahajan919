@@ -168,14 +168,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:e9d5ff,40:d8b4fe,60:c084fc,80:a855f7,100:7e22ce&height=120&section=footer&text=made%20with%20˚ʚ♡ɞ˚%20by%20AARYA&fontSize=18&fontColor=2b0733&fontAlignY=75&animation=fadeIn" width="100%"/>
 </p>
-<!--START_LANG_CHART-->
-## 💜 Language Donut Chart
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%22%2C%22CSS%22%2C%22HTML%22%2C%22HCL%22%2C%22Python%22%2C%22Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B75466%2C4319%2C3871%2C208%2C1799659%2C1214%5D%2C%22backgroundColor%22%3A%5B%22%23cba6f7%22%2C%22%23a084e8%22%2C%22%23d6ccff%22%2C%22%23f5c2e7%22%2C%22%23b4befe%22%2C%22%23cdd6f4%22%5D%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23cdd6f4%22%7D%7D%7D%7D%7D&backgroundColor=#0d1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%22%2C%22CSS%22%2C%22HTML%22%2C%22HCL%22%2C%22Python%22%2C%22Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B75466%2C4319%2C3871%2C208%2C1799659%2C1214%5D%2C%22backgroundColor%22%3A%5B%22%236b4de6%22%2C%22%238b6cf0%22%2C%22%23b9a7ff%22%2C%22%23e0d4ff%22%2C%22%23cdb4ff%22%2C%22%23a084e8%22%5D%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%234b4453%22%7D%7D%7D%7D%7D&backgroundColor=#faf4ff">
-    <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%22%2C%22CSS%22%2C%22HTML%22%2C%22HCL%22%2C%22Python%22%2C%22Java%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B75466%2C4319%2C3871%2C208%2C1799659%2C1214%5D%2C%22backgroundColor%22%3A%5B%22%23cba6f7%22%2C%22%23a084e8%22%2C%22%23d6ccff%22%2C%22%23f5c2e7%22%2C%22%23b4befe%22%2C%22%23cdd6f4%22%5D%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23cdd6f4%22%7D%7D%7D%7D%7D&backgroundColor=#0d1117" width="400">
-  </picture>
-</p>
-<!--END_LANG_CHART-->undefined
