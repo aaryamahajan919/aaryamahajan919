@@ -71,43 +71,43 @@
 <tr>
 <td style="border: none; padding: 15px;">
 <a href="https://github.com/aaryamahajan919">
-<img src="https://cdn.simpleicons.org/github/9B5CFF" width="55"/>
+<img src="https://cdn.simpleicons.org/github/a855f7" width="55"/>
 </a>
 </td>
 
 <td style="border: none; padding: 15px;">
 <a href="https://www.linkedin.com/in/its-aarya-desu/">
-<img src="https://img.icons8.com/ios-filled/100/9B5CFF/linkedin.png" width="55"/>
+<img src="https://img.icons8.com/ios-filled/100/a855f7/linkedin.png" width="55"/>
 </a>
 </td>
 
 <td style="border: none; padding: 15px;">
 <a href="https://codepen.io/aarya-mahajan">
-<img src="https://img.icons8.com/ios-filled/100/9B5CFF/codepen.png" width="55"/>
+<img src="https://img.icons8.com/ios-filled/100/a855f7/codepen.png" width="55"/>
 </a>
 </td>
 
 <td style="border: none; padding: 15px;">
 <a href="https://instagram.com/aarya_m919">
-<img src="https://cdn.simpleicons.org/instagram/9B5CFF" width="55"/>
+<img src="https://cdn.simpleicons.org/instagram/a855f7" width="55"/>
 </a>
 </td>
 
 <td style="border: none; padding: 15px;">
 <a href="https://www.youtube.com/@aarya_mahajan">
-<img src="https://cdn.simpleicons.org/youtube/9B5CFF" width="55"/>
+<img src="https://cdn.simpleicons.org/youtube/a855f7" width="55"/>
 </a>
 </td>
 
 <td style="border: none; padding: 15px;">
 <a href="https://leetcode.com/aaryamahajan919">
-<img src="https://cdn.simpleicons.org/leetcode/9B5CFF" width="55"/>
+<img src="https://cdn.simpleicons.org/leetcode/a855f7" width="55"/>
 </a>
 </td>
 
 <td style="border: none; padding: 15px;">
 <a href="https://www.codechef.com/users/aarya919">
-<img src="https://cdn.simpleicons.org/codechef/9B5CFF" width="55"/>
+<img src="https://cdn.simpleicons.org/codechef/a855f7" width="55"/>
 </a>
 </td>
 </tr>
