@@ -23,11 +23,11 @@
 <div align="center">
   <table width="520" style="
     border-radius:16px;
-    border:1px solid #d8ccff;
+    border:1px solid #e9d5ff;
     padding:20px;">
     <tr>
       <td align="left" style="
-        background:#f3efff;
+        background:#faf5ff;
         border-radius:16px;
         padding:20px;
         font-size:14px;
@@ -35,28 +35,38 @@
       ">
         🌸 <b>Visit My</b>  
         <a href="https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-CABDFF?style=flat-square&logo=vercel&logoColor=3A2BB4&labelColor=EDE7FF" />
+          <img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat-square&logo=vercel&logoColor=white" height="18"/>
         </a>
         <br>
         🌸 🔭 I’m currently working on  
-        <b>AWS, AZURE, GCP & JLPT N3</b>
+        <a href="https://aws.amazon.com/">
+          <img src="https://img.shields.io/badge/AWS-a855f7?style=flat-square&logo=amazonaws&logoColor=white" height="18"/>
+        </a>
+        <a href="https://azure.microsoft.com/">
+          <img src="https://img.shields.io/badge/Azure-a855f7?style=flat-square&logo=microsoftazure&logoColor=white" height="18"/>
+        </a>
+        <a href="https://cloud.google.com/">
+          <img src="https://img.shields.io/badge/GCP-a855f7?style=flat-square&logo=googlecloud&logoColor=white" height="18"/>
+        </a>
+        <a href="https://www.jlpt.jp/e/">
+          <img src="https://img.shields.io/badge/JLPT%20N3-a855f7?style=flat-square&logo=bookstack&logoColor=white" height="18"/>
+        </a>
         <br>
         🌸 👨‍💻 <b>Project docs</b>  
         <a href="https://github.com/aaryamahajan919?tab=repositories">
-          <img src="https://img.shields.io/badge/Documentation-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" />
+          <img src="https://img.shields.io/badge/GitHub-a855f7?style=flat-square&logo=github&logoColor=white" height="18"/>
         </a>
         <br>
-        🌸 💬 Ask me about  
-        <b>Anything! 😉</b>
+        🌸 💬 Ask me about  <b>Anything</b>
         <br>
         🌸 📫 <b>Reach me</b>  
         <a href="mailto:aaryamahajan919@gmail.com">
-          <img src="https://img.shields.io/badge/Email-CABDFF?style=flat-square&logo=gmail&logoColor=3A2BB4&labelColor=EDE7FF" />
+          <img src="https://img.shields.io/badge/Email-a855f7?style=flat-square&logo=gmail&logoColor=white" height="18"/>
         </a>
         <br>
         🌸 📄 <b>See my</b>  
         <a href="https://aaryamahajan919.github.io/aarya-resume/Aarya_Mahajan_Resume.pdf">
-          <img src="https://img.shields.io/badge/Resume-CABDFF?style=flat-square&logo=readthedocs&logoColor=3A2BB4&labelColor=EDE7FF" />
+          <img src="https://img.shields.io/badge/Resume-a855f7?style=flat-square&logo=readthedocs&logoColor=white" height="18"/>
         </a>
       </td>
     </tr>
