@@ -64,38 +64,55 @@
 </div>
 
 <div align="center">
-<h2 align="center">Connect with me</h2>
-<a href="https://codepen.io/aarya-mahajan" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-E3D4FF?style=flat-square&color=E3D4FF&logo=codepen&logoColor=4B2E83&labelColor=AF7CFF" />
+  
+##  Connect with Me
+
+<table style="border-collapse: collapse;">
+<tr>
+<td style="border: none; padding: 15px;">
+<a href="https://github.com/aaryamahajan919">
+<img src="https://cdn.simpleicons.org/github/9B5CFF" width="55"/>
 </a>
+</td>
 
-<a href="https://github.com/aaryamahajan919" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-CABDFF?style=flat-square&logo=github&logoColor=3A2BB4&labelColor=EDE7FF" alt="GitHub"/>
+<td style="border: none; padding: 15px;">
+<a href="https://www.linkedin.com/in/its-aarya-desu/">
+<img src="https://img.icons8.com/ios-filled/100/9B5CFF/linkedin.png" width="55"/>
 </a>
+</td>
 
-<a href="https://www.linkedin.com/in/its-aarya-desu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-CABDFF?style=flat-square&color=CABDFF&logo=linkedin&logoColor=4B2E83&labelColor=9B5CFF" />
+<td style="border: none; padding: 15px;">
+<a href="https://codepen.io/aarya-mahajan">
+<img src="https://img.icons8.com/ios-filled/100/9B5CFF/codepen.png" width="55"/>
 </a>
+</td>
 
-<a href="https://instagram.com/aarya_m919" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-CABDFF?style=flat-square&logo=instagram&logoColor=3A2BB4&labelColor=EDE7FF" alt="Instagram"/>
+<td style="border: none; padding: 15px;">
+<a href="https://instagram.com/aarya_m919">
+<img src="https://cdn.simpleicons.org/instagram/9B5CFF" width="55"/>
 </a>
+</td>
 
-<a href="https://www.youtube.com/@aarya_mahajan" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-CABDFF?style=flat-square&logo=youtube&logoColor=3A2BB4&labelColor=EDE7FF" alt="YouTube"/>
+<td style="border: none; padding: 15px;">
+<a href="https://www.youtube.com/@aarya_mahajan">
+<img src="https://cdn.simpleicons.org/youtube/9B5CFF" width="55"/>
 </a>
+</td>
 
-  <!-- CodeChef (Brown) -->
-  <a href="https://www.codechef.com/users/aarya919" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-CABDFF?style=flat-square&logo=codechef&logoColor=3A2BB4&labelColor=EDE7FF" alt="CodeChef" />
-  </a>
+<td style="border: none; padding: 15px;">
+<a href="https://leetcode.com/aaryamahajan919">
+<img src="https://cdn.simpleicons.org/leetcode/9B5CFF" width="55"/>
+</a>
+</td>
 
-  <!-- LeetCode (Orange-Brown) -->
-  <a href="https://leetcode.com/aaryamahajan919" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-CABDFF?style=flat-square&logo=leetcode&logoColor=3A2BB4&labelColor=EDE7FF" alt="LeetCode" />
-  </a>
+<td style="border: none; padding: 15px;">
+<a href="https://www.codechef.com/users/aarya919">
+<img src="https://cdn.simpleicons.org/codechef/9B5CFF" width="55"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
-
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
