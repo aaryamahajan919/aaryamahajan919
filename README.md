@@ -14,7 +14,7 @@
     <!-- PROFILE VIEWS (CENTERED) -->
     <p align="center">
       <img
-        src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=3e1e63&labelColor=4D3A91&style=flat-square"
+        src="https://komarev.com/ghpvc/?username=aaryamahajan919&label=Profile%20Views&color=a855f7&labelColor=4D3A91&style=flat-square"
         alt="profile views"/>
     </p>
   </div>
