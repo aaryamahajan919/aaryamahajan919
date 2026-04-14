@@ -52,6 +52,7 @@
           <img src="https://img.shields.io/badge/JLPT%20N3-a855f7?style=flat-square&logo=bookstack&logoColor=white" height="18"/>
         </a>
         <br>
+        🌸 🖥️ Freelancing for a digital marketing website <br>
         🌸 👨‍💻 <b>Project docs</b>  
         <a href="https://github.com/aaryamahajan919?tab=repositories">
           <img src="https://img.shields.io/badge/GitHub-a855f7?style=flat-square&logo=github&logoColor=white" height="18"/>
