@@ -65,10 +65,10 @@
           <img src="https://img.shields.io/badge/Email-a855f7?style=flat-square&logo=gmail&logoColor=white" height="18"/>
         </a>
         <br>
-        🌸 📄 <b>See my</b>  
+        <!-- 🌸 📄 <b>See my</b>  
         <a href="https://aaryamahajan919.github.io/aarya-resume/Aarya_Mahajan_Resume.pdf">
           <img src="https://img.shields.io/badge/Resume-a855f7?style=flat-square&logo=readthedocs&logoColor=white" height="18"/>
-        </a>
+        </a> -->
       </td>
     </tr>
   </table>
