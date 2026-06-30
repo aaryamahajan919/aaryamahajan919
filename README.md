@@ -34,7 +34,7 @@
         line-height:1.8;
       ">
         🌸 <b>Visit My</b>  
-        <a href="https://beautiful-react-tailw-git-2d97d3-aaryamahajan919-6640s-projects.vercel.app/">
+        <a href="https://aarya-mahajan-portfolio.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-a855f7?style=flat-square&logo=vercel&logoColor=white" height="18"/>
         </a>
         <br>
