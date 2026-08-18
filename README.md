@@ -86,7 +86,7 @@
 </td>
 
 <td style="border: none; padding: 15px;">
-<a href="https://www.linkedin.com/in/its-aarya-desu/">
+<a href="https://www.linkedin.com/in/its-aarya-mahajan-desu/">
 <img src="https://img.icons8.com/ios-filled/100/a855f7/linkedin.png" width="55"/>
 </a>
 </td>
