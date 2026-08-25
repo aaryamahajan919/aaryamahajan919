@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:d8b4fe,40:c084fc,60:a855f7,80:7e22ce,100:4c1d95&height=260&section=header&text=ᗩᗩᖇYᗩ%20ᗰᗩᕼᗩᒍᗩᑎ&fontSize=62&fontColor=2b0733&fontAlignY=30&desc=✨%20Multilingual%20Software%20Developer✨&descAlignY=55&descSize=17&descColor=black&stroke=black&strokeWidth=1.5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e8ff,20:d8b4fe,40:c084fc,60:a855f7,80:7e22ce,100:4c1d95&height=260&section=header&text=ᗩᗩᖇYᗩ%20ᗰᗩᕼᗩᒍᗩᑎ&fontSize=62&fontColor=2b0733&fontAlignY=30&desc=✨%20Multilingual%20Cloud%20/%20DevOps%20Engineer%20●%20AI%20/%20Prompt%20Engineer✨&descAlignY=55&descSize=17&descColor=black&stroke=black&strokeWidth=1.5&animation=fadeIn" width="100%"/>
 
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>, I'm AARYA!</h1>
 <h4 align="center">IT Engineer | JLPT Certified</h4>
@@ -48,8 +48,19 @@
         <a href="https://cloud.google.com/">
           <img src="https://img.shields.io/badge/GCP-a855f7?style=flat-square&logo=googlecloud&logoColor=white" height="18"/>
         </a>
+        <a href="https://aws.amazon.com/what-is/generative-ai/">
+          <img src="https://img.shields.io/badge/GenAI-a855f7?style=flat-square&logo=robot&logoColor=white" height="18"/>
+        </a>
+        <a href="https://aws.amazon.com/what-is/prompt-engineering/">
+          <img src="https://img.shields.io/badge/Prompt%20Engineering-a855f7?style=flat-square&logo=prompt&logoColor=white" height="18"/>
+        </a>
         <a href="https://www.jlpt.jp/e/">
           <img src="https://img.shields.io/badge/JLPT%20N3-a855f7?style=flat-square&logo=bookstack&logoColor=white" height="18"/>
+        </a>
+        <br>
+        🌸 Current project
+        <a href="https://github.com/aaryamahajan919/payflowx-aws-payment-platform">
+          <img src="https://img.shields.io/badge/PayFlowX-a855f7?style=flat-square&logo=amazonaws&logoColor=white" height="18"/>
         </a>
         <br>
         🌸 👨‍💻 <b>Project docs</b>  
